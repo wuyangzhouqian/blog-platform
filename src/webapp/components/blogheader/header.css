@@ -1,0 +1,8 @@
+/**
+* 安装css next 语法来解释 改变css的尾缀
+*/
+.components-blogheader{
+    & h1{
+        color:red;
+    }
+}
